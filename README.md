@@ -4,7 +4,7 @@ En este proyecto realizamos en JAVA la conexión entre un cliente y un servidor.
 
 # La API --> OpenWeatherMap
 
-Lo único que no está añadido dentro del repositorio es un clase java que nos devuelve la key de nuesto usuario.
+Lo único que no está añadido dentro del repositorio es un clase java, dentro de la carpeta del Servidor llamada ApiKey.java que nos devuelve la key de nuesto usuario de OpenWeatherMap.
 
     package com.mycompany.servidor;
 
